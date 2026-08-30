@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keysjoao.github.io/liga-dos-aprovados-site/sitemap.xml

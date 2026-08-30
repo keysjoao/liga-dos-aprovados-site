@@ -1,0 +1,33 @@
+# Liga dos Aprovados no Flow
+
+> Programa de mentoria de alta performance mental e comportamental para
+> vestibulandos e seus pais, conduzido pela Dra. Maria Angélica Martins
+> (Instituto Atleta no Flow) com a psicóloga Dra. Andreia Rodrigues. A tese:
+> no dia a dia estudar é 90% intelectual; na hora da prova vira 90% mental.
+
+## Informações essenciais
+
+- O que é: mentoria (não é curso) com encontros ao vivo em grupo, comunidade
+  dos alunos e dos pais, check-in semanal, treinamento mental, ritual pré-prova,
+  mentoria exclusiva para pais e aulas bônus (nutrição, preparação física,
+  fisiologia).
+- Público: vestibulandos a partir dos 15 anos (2º e 3º ano, cursinho), com
+  forte presença de medicina; pais incluídos.
+- Metodologia: Atleta no Flow (desde 2018), com Matriz Flow, Performance 360,
+  17 gatilhos de flow e os 4 perfis de vestibulando (Comfort, Esteira,
+  Meteórico, Flow).
+- Teste gratuito no site: 10 perguntas, pontuação de 10 a 50.
+- Inscrição: turmas com vagas limitadas; contato pelo WhatsApp da equipe a
+  partir do formulário do site.
+- Garantia: 7 dias a partir da primeira mentoria.
+- Instagram: [@dra.mariaangelicamartins](https://www.instagram.com/dra.mariaangelicamartins) e [@institutoatletanoflow](https://www.instagram.com/institutoatletanoflow)
+- YouTube: [Atleta no Flow](https://www.youtube.com/@atletanoflow)
+
+## Páginas
+
+- [Página inicial](https://keysjoao.github.io/liga-dos-aprovados-site/): apresentação, método, pais, resultados e diagnóstico
+- [Os 4 perfis](https://keysjoao.github.io/liga-dos-aprovados-site/#perfis): Comfort, Esteira, Meteórico e Flow
+- [O que é a Liga](https://keysjoao.github.io/liga-dos-aprovados-site/#liga): entregas do programa
+- [Para os pais](https://keysjoao.github.io/liga-dos-aprovados-site/#pais): mentoria e comunidade dos pais
+- [Dúvidas](https://keysjoao.github.io/liga-dos-aprovados-site/#duvidas): perguntas frequentes
+- [Teste](https://keysjoao.github.io/liga-dos-aprovados-site/#diagnostico): teste e formulário
